@@ -23,11 +23,11 @@ public class Prjava01Fernandez {
             bw.write("<html>");bw.newLine();
             bw.write("  <head>");bw.newLine();
             bw.write("    <title>");bw.newLine();
-            bw.write("      Nova p&agrave;gina web de Daniel Fernandez");bw.newLine();
+            bw.write("      Nova p&agrave;gina web de Daniel Fernandez DAW2 UF4 Practica2");bw.newLine();
             bw.write("    </title>");bw.newLine();
             bw.write("  </head>");bw.newLine();
             bw.write("  <body>");bw.newLine();
-            bw.write("    Nova p&agrave;gina web de Daniel Fernandez");bw.newLine();
+            bw.write("    Nova p&agrave;gina web de Daniel Fernandez DAW2 UF4 Practica2");bw.newLine();
             bw.write("  </body>");bw.newLine();
             bw.write("</html>");bw.newLine();
             bw.close();
